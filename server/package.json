@@ -1,0 +1,13 @@
+{
+  "name": "chess-game-server",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "chess-game": "file:..",
+    "chess.js": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
